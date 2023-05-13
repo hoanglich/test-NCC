@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.css": "/deploy-github/static/css/main.a5476252.css",
+    "main.js": "/deploy-github/static/js/main.c532ab1b.js",
+    "static/js/787.4dda8d1f.chunk.js": "/deploy-github/static/js/787.4dda8d1f.chunk.js",
+    "static/media/urlIcon.png": "/deploy-github/static/media/urlIcon.82d9e5b54fa46dbf4f7c.png",
+    "static/media/htmlIcon.png": "/deploy-github/static/media/htmlIcon.c5aa0f38e5ef72b5f369.png",
+    "static/media/cssIcon.png": "/deploy-github/static/media/cssIcon.f0206779c57662ba78b7.png",
+    "static/media/logoNCC.png": "/deploy-github/static/media/logoNCC.a866a7b261f9052e4413.png",
+    "index.html": "/deploy-github/index.html",
+    "main.a5476252.css.map": "/deploy-github/static/css/main.a5476252.css.map",
+    "main.c532ab1b.js.map": "/deploy-github/static/js/main.c532ab1b.js.map",
+    "787.4dda8d1f.chunk.js.map": "/deploy-github/static/js/787.4dda8d1f.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.a5476252.css",
+    "static/js/main.c532ab1b.js"
+  ]
+}
